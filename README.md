@@ -1399,6 +1399,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [SwipeMenuViewController](https://github.com/yysskk/SwipeMenuViewController) - Swipable tab and menu View and ViewController.
 * [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - Android PagerTabStrip for iOS.
 * [YNDropDownMenu](https://github.com/younatics/YNDropDownMenu) - Adorable iOS drop down menu.
+* [WBSwipeableCell](https://github.com/mwaqasbhati/WBSwipeableCell) - Library used to show options menu in TableView and CollectionView
 
 #### Pagination
 [back to top](#readme) 
